@@ -1,0 +1,4 @@
+the file example10_fabonacci_1 is the method of recursion to caculate Fibonacci sequence
+the file example10_fabonacci_2 is the method of Sequential solution to caculate Fibonacci sequence
+the file example10_fabonacci_3 is the method of matrix multiply to caculate Fibonacci sequence
+the file example10_fabonacci_4 is the method of the general formula to caculate Fibonacci sequence
